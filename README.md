@@ -5,7 +5,7 @@
 
 <br>
 
-1. #### Deploy Test & Edit at:
+1. #### Deploy, Test and Edit at:
 https://remix.ethereum.org/
 
 2. #### Get wallet at:
