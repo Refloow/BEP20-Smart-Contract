@@ -6,7 +6,8 @@
 <br>
 
 1. #### Deploy, Test and Edit at:
-https://remix.ethereum.org/
+https://remix.ethereum.org/ <br>
+Create a new file called TokenName.sol, paste Token.sol file contents and there you have it!
 
 2. #### Get wallet at:
 
