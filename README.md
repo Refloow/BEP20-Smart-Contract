@@ -10,7 +10,7 @@ https://remix.ethereum.org/
 
 2. #### Get wallet at:
 
-https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain
+https://metamask.io/
 
 3. #### Configure Binance TESTNET on MetaMask:
 
