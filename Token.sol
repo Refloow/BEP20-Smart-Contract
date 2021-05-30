@@ -11,7 +11,7 @@ contract Token {
     string public name = "My Token";
     // Tokens Symbol
     string public symbol = "MTK";
-    // Total Decimals
+    // Total Decimals (max 18)
     uint public decimals = 18;
     
     // Transfers
