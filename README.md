@@ -38,7 +38,7 @@ https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-cha
 
 https://testnet.binance.org/faucet-smart
 
-5. #### Deploy your first contract & Play around and make your first transaction!
+5. #### Deploy your first contract, play around and make your first transaction!
     1. To deploy the contract click 3rd icon [Deploy & Run Transactions]
     1. Select Injected Web3
     1. Connect with the metamask
