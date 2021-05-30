@@ -23,7 +23,7 @@ ChainID: 97
 Symbol: BNB
 Block Explorer URL: https://testnet.bscscan.com
 ```
-For more detailed guide checkout:
+For more detailed guide checkout: <br>
 https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain
 
 4. #### Get Binance TESTNET BNB on your wallet at:
