@@ -28,7 +28,7 @@ contract Token {
         return balances[owner];
     }
     
-    // Transfering the coins
+    // Transfering coins function
     function transfer(address to, uint value) public returns(bool) {
         require(balanceOf(msg.sender) >= value, 'Insufficient balance');
         balances[to] += value;
